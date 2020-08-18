@@ -2,7 +2,7 @@
 
 ## Sou Desenvolvedor, Designer Gráfico e um jovem com uma mente muito criativa.
 
-- 💻 Atualmente estou procurando emprego na área da programação como desenvolvedor júnior!
+- 💻 Atualmente estou procurando emprego na área de desenvolvimento como desenvolvedor júnior!
 - 🌱 Estou aprendendo sempre, sendo erros ou acertos, novas tecnologias e bibliotecas. 🤣
 - ⚡ Fatos divertidos: Eu amo jogar 🎮, Ler 📘, Aprender novas tecnologias 💻 (Pretendo aprender Python e Django logo logo 🤣).
 
@@ -25,6 +25,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][default]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
@@ -42,6 +43,7 @@
 
 </details>
 
+[docker]: https://www.docker.com
 [github]: https://github.com/EdisonJuniorDesigner
 [git]: https://git-scm.com
 [mongodb]: https://www.mongodb.com
