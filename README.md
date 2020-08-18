@@ -1,4 +1,4 @@
-### Oi, eu sou o Edison - [edison][linkedin] 👋
+### Oi, eu sou o Edison - [EdisonJr][linkedin] 👋
 
 ## Sou Desenvolvedor, Designer Gráfico e um jovem com uma mente muito criativa.
 
@@ -53,7 +53,7 @@
 [react]: https://reactjs.org
 [sass]: https://sass-lang.com
 [visualstudio]: https://code.visualstudio.com
-[edison]: EdisonJunior
+[EdisonJr]: EdisonJunior
 [twitter]: https://twitter.com/edjuni0r1
 [instagram]: https://instagram.com/ed.juni0r1
 [linkedin]: https://linkedin.com/in/edison-junior-438003187
