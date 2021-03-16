@@ -4,7 +4,7 @@
 
 - 💻 Atualmente estou procurando emprego na área de desenvolvimento como desenvolvedor júnior!
 - 🌱 Estou aprendendo sempre, sendo erros ou acertos, novas tecnologias e bibliotecas. 🤣
-- ⚡ Fatos divertidos: Eu amo jogar 🎮, Ler 📘, Aprender novas tecnologias 💻 (Pretendo aprender Python e Django logo logo 🤣).
+- ⚡ Fatos divertidos: Eu amo jogar 🎮, Ler 📘, Aprender novas tecnologias 💻.
 
 ### Fale comigo:
 
