@@ -2,7 +2,7 @@
 
 ## Sou Desenvolvedor, Designer Gráfico e um jovem com uma mente muito criativa.
 
-- 💻 Atualmente estou procurando emprego na área de desenvolvimento como desenvolvedor júnior!
+- 💻 Atualmente trabalho como Designer Gráfico, porém estou procurando emprego na área de desenvolvimento como desenvolvedor júnior!
 - 🌱 Estou aprendendo sempre, sendo erros ou acertos, novas tecnologias e bibliotecas. 🤣
 - ⚡ Fatos divertidos: Eu amo jogar 🎮, Ler 📘, Aprender novas tecnologias 💻.
 
