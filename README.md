@@ -1,8 +1,8 @@
 ### Oi, eu sou o Edison - [EdisonJr][linkedin] 👋
 
-## Sou Desenvolvedor, Designer Gráfico e um jovem com uma mente muito criativa.
+## Sou Desenvolvedor e um jovem com uma mente muito criativa.
 
-- 💻 Atualmente trabalho como Designer Gráfico, porém estou procurando emprego na área de desenvolvimento como desenvolvedor júnior!
+- 💻 Atualmente trabalho Prime It Solution atuando como desenvolvedor júnior Front-End!
 - 🌱 Estou aprendendo sempre, sendo erros ou acertos, novas tecnologias e bibliotecas. 🤣
 - ⚡ Fatos divertidos: Eu amo jogar 🎮, Ler 📘, Aprender novas tecnologias 💻.
 
