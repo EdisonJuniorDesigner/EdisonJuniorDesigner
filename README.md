@@ -2,7 +2,7 @@
 
 ## Sou Desenvolvedor e um jovem com uma mente muito criativa.
 
-- 💻 Atualmente trabalho na Prime It Solution atuando como desenvolvedor júnior Front-End!
+- 💻 Atualmente trabalho na Procics atuando como analista de sistemas Pleno!
 - 🌱 Estou aprendendo sempre, sendo erros ou acertos, novas tecnologias e bibliotecas. 🤣
 - ⚡ Fatos divertidos: Eu amo jogar 🎮, Ler 📘, Aprender novas tecnologias 💻.
 
